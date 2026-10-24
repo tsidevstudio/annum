@@ -1,60 +1,47 @@
 # Annum
 
-Annum is an Android reminder app designed to help users keep track of birthdays, anniversaries and other important recurring dates.
+**Reminder and Date Tracking for Android**
 
-It provides a simple way to organize meaningful dates and receive reminders before they are easy to forget.
+Annum helps users keep important dates, reminders and recurring time-based information organized on Android.
 
-## Features
+## What it does
 
-- Track birthdays
-- Track anniversaries
-- Add important recurring dates
-- Upcoming-event overview
-- Reminder notifications
-- Home-screen widget
+- Track important dates and reminders
+- Keep upcoming events organized
+- Use widget support where available
+- Focused everyday date tracking
+
+## Product principles
+
+- Clear reminder visibility
 - Simple date organization
-- Local-first design
-- No unnecessary account requirement
-- Focused Android experience
+- Local-first where practical
+- Focused Android utility
 
-## Useful for
+## Public documentation
 
-Annum can be used for:
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Widgets and Reminders](docs/widgets-and-reminders.md) | Public user-facing documentation |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-- Birthdays
-- Wedding anniversaries
-- Relationship anniversaries
-- Family events
-- Personal milestones
-- Important yearly reminders
-- Other recurring dates
+## Official links
 
-## Privacy approach
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-Annum is designed around simple local data management.
+## About this repository
 
-The app focuses on:
+This repository is for public product information, documentation, verification links and release-related resources.
 
-- Local-first usage
-- Minimal data collection
-- No unnecessary accounts
-- No unnecessary cloud dependence
-- Clear ownership of personal data
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## TSI Dev Studio
+Internal architecture and implementation details are intentionally excluded from public documentation.
 
-Annum is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
+## Developer
 
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Zekro and Zizly.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
